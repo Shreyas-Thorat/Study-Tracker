@@ -157,5 +157,5 @@ Date , Subject , Duration , Description
 ## 👨‍💻 Author
 
 **Shreyas Prakash Thorat**
-Developed as a console-based application to practice **Java programming, OOP, collections, and file handling**.
+
 
