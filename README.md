@@ -44,7 +44,7 @@ StudyTracker/
 │── StudyTracker.java     # Manages logs, summaries, export
 │── MarvellousStudy.csv   # Auto-generated CSV file
 │── README.md             # Documentation
-│── Screenshots/          # Suggested screenshots for demo
+│── Screenshots/          # Screenshots of the output
 ```
 
 ---
