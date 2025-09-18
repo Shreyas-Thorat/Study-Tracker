@@ -2,8 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-8%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Stable-success)
+
 
 ---
 
